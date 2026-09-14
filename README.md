@@ -224,39 +224,12 @@ The objective is to turn *raw transactional data into information that can suppo
 
 ---
 
-## 🎓 About KeDataLab
-
-*KeDataLab* is a practical data training and mentorship platform focused on helping learners develop real-world data skills.
-
-Our approach emphasizes:
-
-* Practical projects
-* Python
-* SQL
-* Power BI
-* Tableau
-* Data analysis
-* Portfolio development
-* Git & GitHub
-* Business problem solving
-
-Learn by building, not just by watching tutorials.
-
----
-
-## 📚 Project Source
-
-Dataset: *Cafe Sales — Dirty Data for Cleaning Training*
-
-The original dataset is available through Kaggle.
-
----
 
 ## 👨‍💻 Author
 
-*KeDataLab*
+*KinneryAnyanga*
 
-GitHub: https://github.com/KeDataLab
+GitHub: https://github.com/KinneryAnyanga
 
 ---
 
